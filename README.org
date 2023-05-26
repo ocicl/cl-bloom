@@ -1,0 +1,9 @@
+* cl-bloom
+
+Simple Bloom filters in Common Lisp with efficient hashing.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/ruricolist/cl-bloom.git |
+| commit  | b6f9129                                        |
+| systems | cl-bloom                                       |
+|---------+------------------------------------------------|
